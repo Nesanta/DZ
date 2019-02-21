@@ -38,6 +38,8 @@ goodsBtn.forEach(function(btn, i) {
         cartWrapper.appendChild(item);
         if (empty) {
             empty.remove();
+
+        kjk    
         }
     });
 });
