@@ -44,3 +44,5 @@ const cartWrapper = document.querySelector('.cart__wrapper'),
         });
     });    
 });
+JS-PF
+JS-PF
